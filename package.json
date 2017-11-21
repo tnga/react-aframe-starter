@@ -1,0 +1,46 @@
+{
+  "name": "react-aframe-starter",
+  "version": "1.18.0",
+  "description": "Boilerplate for building virtual and augmented reality experiences with React and A-Frame.",
+  "dependencies": {
+    "aframe": "^0.5.0",
+    "react-aframe-ar": "^1.18.0",
+    "babel-polyfill": "^6.3.14",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "publish": "npm run build && gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnga/react-aframe-starter.git"
+  },
+  "keywords": [
+    "react",
+    "vr",
+    "ar",
+    "a-frame",
+    "aframe",
+    "moz-vr",
+    "react-vr",
+    "react-component",
+    "virtual-reality",
+    "augmented-reality",
+    "webvr"
+  ],
+  "author": "tnga <devtnga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tnga/react-aframe-starter/issues"
+  },
+  "homepage": "https://github.com/tnga/react-aframe-starter#readme",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
