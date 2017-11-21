@@ -1,6 +1,6 @@
 {
   "name": "react-aframe-starter",
-  "version": "1.18.0",
+  "version": "1.18.1",
   "description": "Boilerplate for building virtual and augmented reality experiences with React and A-Frame.",
   "dependencies": {
     "aframe": "^0.5.0",
