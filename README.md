@@ -8,10 +8,15 @@
   <img alt="react-aframe-starter" src="https://tnga.github.io/sharedbazar/img/react-aframe.png" /> 
 </center>
 
-### get started
+### Getting started
+
+First you have to clone the project to your local machine, with the command 
+`git clone https://github.com/tnga/react-aframe-starter/` 
+Then `cd react-aframe-starter`.
+
+**Requirement** : You should have npm (Node Package Manager) installed
 
 To install:
-
 ```bash
 npm install
 npm start
@@ -22,3 +27,5 @@ To publish to GitHub Pages:
 ```bash
 npm run publish
 ```
+
+And here you're done !
